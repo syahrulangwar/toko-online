@@ -2,7 +2,7 @@
 body {
     background-color: #53f7aa; 
     font-family: Arial, Helvetica, sans-serif; 
-} /* body itu tag dihtml */
+}
 
 h1 {
     text-align: center; 
@@ -33,7 +33,7 @@ button:hover {
     justify-content: center; /* membuat produk ditengah */
     gap: 20px;
     flex-wrap: wrap; /* membuat penyesuaian device */
-} /* class di tag div */
+}
 
 .kartu-produk {
     background-color: #333333;
